@@ -1,0 +1,89 @@
+{
+  "whatsapp_config": {
+    "phone_number": "6281234567890",
+    "message_template": "Hi Techstation, saya ingin aktivasi game \"{GAME_NAME}\" mohon dibantu",
+    "country_code": "62"
+  },
+  "games": [
+    {
+      "appid": 271590,
+      "name": "Grand Theft Auto V",
+      "description": "GTA V with Denuvo protection - Requires activation",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "Rockstar Games",
+      "release_year": 2015,
+      "notes": "Contact via WhatsApp for activation"
+    },
+    {
+      "appid": 812140,
+      "name": "Assassin's Creed Odyssey",
+      "description": "AC Odyssey with Denuvo - Contact for activation",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "Ubisoft",
+      "release_year": 2018,
+      "notes": "Requires online activation via WhatsApp"
+    },
+    {
+      "appid": 883710,
+      "name": "Resident Evil 2",
+      "description": "RE2 Remake with Denuvo protection",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "Capcom",
+      "release_year": 2019,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 750920,
+      "name": "Shadow of the Tomb Raider",
+      "description": "Tomb Raider with Denuvo - Activation needed",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "Square Enix",
+      "release_year": 2018,
+      "notes": "Contact support for activation key"
+    },
+    {
+      "appid": 1091500,
+      "name": "Cyberpunk 2077",
+      "description": "Cyberpunk with DRM protection",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "CD Projekt Red",
+      "release_year": 2020,
+      "notes": "Premium activation service"
+    },
+    {
+      "appid": 945360,
+      "name": "Among Us",
+      "description": "Popular multiplayer game",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "Innersloth",
+      "release_year": 2018,
+      "notes": "Quick activation available"
+    },
+    {
+      "appid": 570,
+      "name": "Dota 2",
+      "description": "Free to play MOBA game",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "Valve",
+      "release_year": 2013,
+      "notes": "Activation for premium features"
+    },
+    {
+      "appid": 730,
+      "name": "Counter-Strike: Global Offensive",
+      "description": "CS:GO tactical shooter",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "Valve",
+      "release_year": 2012,
+      "notes": "Prime activation service"
+    }
+  ]
+}
