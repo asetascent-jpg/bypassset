@@ -6,13 +6,13 @@
   },
   "games": [
     {
-      "appid": 271590,
-      "name": "Grand Theft Auto V",
-      "description": "GTA V with Denuvo protection - Requires activation",
+      "appid": 3489700,
+      "name": "Stellar Blade",
+      "description": "Stellar Blade - Requires activation",
       "category": "denuvo",
       "drm_type": "Denuvo",
-      "publisher": "Rockstar Games",
-      "release_year": 2015,
+      "publisher": "SHIFT UP Corporation",
+      "release_year": 2025,
       "notes": "Contact via WhatsApp for activation"
     },
     {
