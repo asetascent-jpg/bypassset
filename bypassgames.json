@@ -10,7 +10,7 @@
     "updated_at": "2025-10-24",
     "category": "ubisoft",
     "drm_type": "Ubisoft Connect",
-    "notes": "Extract to game folder. Launch via Steam or exe."
+    "notes": "Play game dari file .exe di folder game"
   },
   {
     "appid": 298110,
@@ -23,7 +23,7 @@
     "updated_at": "2025-01-15",
     "category": "ubisoft",
     "drm_type": "Ubisoft Connect",
-    "notes": "Extract to game folder. Compatible with all versions."
+    "notes": "Play game dari file .exe di folder game"
   },
   {
     "appid": 201870,
@@ -36,7 +36,7 @@
     "updated_at": "2025-01-15",
     "category": "ubisoft",
     "drm_type": "Ubisoft Connect",
-    "notes": "Extract and run as administrator."
+    "notes": "Play game dari file .exe di folder game"
   },
   {
     "appid": 208480,
@@ -49,7 +49,7 @@
     "updated_at": "2025-01-15",
     "category": "ubisoft",
     "drm_type": "Ubisoft Connect",
-    "notes": "Works with Steam version. May need DirectX."
+    "notes": "Play game dari file .exe di folder game"
   },
   {
     "appid": 242050,
@@ -62,7 +62,7 @@
     "updated_at": "2025-01-15",
     "category": "ubisoft",
     "drm_type": "Ubisoft Connect",
-    "notes": "Install to game root directory."
+    "notes": "Play game dari file .exe di folder game"
   },
   {
     "appid": 368500,
@@ -75,7 +75,7 @@
     "updated_at": "2025-01-15",
     "category": "ubisoft",
     "drm_type": "Denuvo + Ubisoft Connect",
-    "notes": "Denuvo removed. Extract all files to game folder."
+    "notes": "Play game dari file .exe di folder game"
   },
   {
     "appid": 812140,
@@ -88,7 +88,7 @@
     "updated_at": "2025-01-15",
     "category": "ubisoft",
     "drm_type": "Ubisoft Connect + VMProtect",
-    "notes": "Latest version. Supports all DLC."
+    "notes": "Play game dari file .exe di folder game"
   },
   {
     "appid": 271590,
@@ -101,7 +101,7 @@
     "updated_at": "2025-01-15",
     "category": "rockstar",
     "drm_type": "Rockstar Social Club",
-    "notes": "Offline mode enabled. Online features disabled."
+    "notes": "Play game dari file .exe di folder game, wajib main offline"
   },
   {
     "appid": 1174180,
@@ -114,7 +114,7 @@
     "updated_at": "2025-01-15",
     "category": "rockstar",
     "drm_type": "Rockstar Social Club",
-    "notes": "Extract to RDR2 root folder. Run as admin."
+    "notes": "Play game dari file .exe di folder game, wajib main offline"
   },
   {
     "appid": 2000950,
