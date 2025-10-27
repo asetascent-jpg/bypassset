@@ -13,17 +13,17 @@
       "drm_type": "Denuvo",
       "publisher": "SHIFT UP Corporation",
       "release_year": 2025,
-      "notes": "Contact via WhatsApp for activation"
+      "notes": "Manual activation required"
     },
     {
-      "appid": 812140,
-      "name": "Assassin's Creed Odyssey",
-      "description": "AC Odyssey with Denuvo - Contact for activation",
+      "appid": 2358720,
+      "name": "Black Myth: Wukong",
+      "description": "Black Myth: Wukong - Contact for activation",
       "category": "denuvo",
       "drm_type": "Denuvo",
-      "publisher": "Ubisoft",
-      "release_year": 2018,
-      "notes": "Requires online activation via WhatsApp"
+      "publisher": "Game Science",
+      "release_year": 2024,
+      "notes": "Manual activation required"
     },
     {
       "appid": 883710,
@@ -36,54 +36,74 @@
       "notes": "Manual activation required"
     },
     {
-      "appid": 750920,
-      "name": "Shadow of the Tomb Raider",
-      "description": "Tomb Raider with Denuvo - Activation needed",
+      "appid": 2928600,
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+      "description": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - Activation needed",
       "category": "denuvo",
       "drm_type": "Denuvo",
-      "publisher": "Square Enix",
-      "release_year": 2018,
-      "notes": "Contact support for activation key"
+      "publisher": "CyberConnect2",
+      "release_year": 2025,
+      "notes": "Manual activation required"
     },
     {
-      "appid": 1091500,
-      "name": "Cyberpunk 2077",
-      "description": "Cyberpunk with DRM protection",
+      "appid": 1687950,
+      "name": "Persona 5 Royal",
+      "description": "Persona 5 Royalk with DRM protection",
       "category": "denuvo",
       "drm_type": "Denuvo",
-      "publisher": "CD Projekt Red",
-      "release_year": 2020,
-      "notes": "Premium activation service"
+      "publisher": "ATLUS",
+      "release_year": 2022,
+      "notes": "Manual activation required"
     },
     {
-      "appid": 945360,
-      "name": "Among Us",
-      "description": "Popular multiplayer game",
+      "appid": 990080,
+      "name": "Hogwarts Legacy",
+      "description": "Hogwarts Legacy game",
       "category": "denuvo",
       "drm_type": "Denuvo",
-      "publisher": "Innersloth",
-      "release_year": 2018,
-      "notes": "Quick activation available"
+      "publisher": "Avalanche Software",
+      "release_year": 2023,
+      "notes": "Manual activation required"
     },
     {
-      "appid": 570,
-      "name": "Dota 2",
-      "description": "Free to play MOBA game",
+      "appid": 1941540,
+      "name": "Mafia: The Old Country",
+      "description": "Mafia: The Old Country",
       "category": "denuvo",
       "drm_type": "Denuvo",
-      "publisher": "Valve",
-      "release_year": 2013,
-      "notes": "Activation for premium features"
+      "publisher": "Hangar 13",
+      "release_year": 2025,
+      "notes": "Manual activation required"
     },
     {
-      "appid": 730,
-      "name": "Counter-Strike: Global Offensive",
-      "description": "CS:GO tactical shooter",
+      "appid": 2050650,
+      "name": "Resident Evil 4",
+      "description": "Resident Evil 4",
       "category": "denuvo",
       "drm_type": "Denuvo",
-      "publisher": "Valve",
-      "release_year": 2012,
-      "notes": "Prime activation service"
+      "publisher": "Capcom",
+      "release_year": 2023,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 1029690,
+      "name": "Sniper Elite 5",
+      "description": "Sniper Elite 5",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "Rebellion",
+      "release_year": 2022,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 493340,
+      "name": "Planet Coaster",
+      "description": "Planet Coaster",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "MAC",
+      "release_year": 2016,
+      "notes": "Manual activation required"
     }
   ]
 }
