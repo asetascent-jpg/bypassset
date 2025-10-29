@@ -154,5 +154,18 @@
     "category": "COD",
     "drm_type": "COD",
     "notes": "Mainkan game dari file !start_cod23.bat"
+  },
+  {
+    "appid": 1222700,
+    "name": "A Way Out",
+    "description": "A Way Out",
+    "download_url": "https://pixeldrain.com/u/oixwhLLD",
+    "file_id": "oixwhLLD",
+    "size": 52428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "Hazelight Studios",
+    "drm_type": "Hazelight Studios",
+    "notes": "Main langsung aja"
   }
 ]
