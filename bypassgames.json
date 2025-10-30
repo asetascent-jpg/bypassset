@@ -180,5 +180,83 @@
     "category": "COD",
     "drm_type": "COD",
     "notes": "Play dari .exe"
+  },
+  {
+    "appid": 1225570,
+    "name": "Unravel Two",
+    "description": "Unravel Two",
+    "download_url": "https://pixeldrain.com/u/DXTXWt5M",
+    "file_id": "DXTXWt5M",
+    "size": 152428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "EA",
+    "drm_type": "EA",
+    "notes": "Play dari .exe"
+  },
+  {
+    "appid": 2001120,
+    "name": "Split Fiction",
+    "description": "Split Fiction",
+    "download_url": "https://pixeldrain.com/u/ZGJj4KYi",
+    "file_id": "ZGJj4KYi",
+    "size": 12428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "EA",
+    "drm_type": "EA",
+    "notes": "Play dari .exe"
+  },
+  {
+    "appid": 2369390,
+    "name": "Far Cry 6",
+    "description": "Far Cry 6",
+    "download_url": "https://pixeldrain.com/u/y7jPWNEV",
+    "file_id": "y7jPWNEV",
+    "size": 32428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "Ubisoft",
+    "drm_type": "Ubisoft",
+    "notes": "Play dari .exe butuh directX, UbisoftPlay, VC Redist"
+  },
+  {
+    "appid": 939960,
+    "name": "Far Cry New Dawn",
+    "description": "Far Cry New Dawn",
+    "download_url": "https://pixeldrain.com/u/ugA7VEqe",
+    "file_id": "ugA7VEqe",
+    "size": 32428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "Ubisoft",
+    "drm_type": "Ubisoft",
+    "notes": "Play dari .exe butuh directX, UbisoftPlay, VC Redist"
+  },
+  {
+    "appid": 3035570,
+    "name": "Assassin's Creed Mirage",
+    "description": "Assassin's Creed Miragen",
+    "download_url": "https://pixeldrain.com/u/q1UfCq94",
+    "file_id": "q1UfCq94",
+    "size": 32428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "Ubisoft",
+    "drm_type": "Ubisoft",
+    "notes": "Play dari .exe butuh direct12, UbisoftPlay, VC C++2019"
+  },
+  {
+    "appid": 2208920,
+    "name": "Assassin's Creed Valhalla",
+    "description": "Assassin's Creed Valhalla",
+    "download_url": "https://pixeldrain.com/u/Rdjkmf6Z",
+    "file_id": "Rdjkmf6Z",
+    "size": 32428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "Ubisoft",
+    "drm_type": "Ubisoft",
+    "notes": "Play dari .exe butuh direct12, UbisoftPlay, VC C++2019"
   }
 ]
