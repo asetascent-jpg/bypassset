@@ -244,7 +244,7 @@
     "updated_at": "2025-01-15",
     "category": "Ubisoft",
     "drm_type": "Ubisoft",
-    "notes": "Play dari .exe butuh direct12, UbisoftPlay, VC C++2019"
+    "notes": "Play dari .exe butuh directX12, UbisoftPlay, VC C++2019"
   },
   {
     "appid": 2208920,
@@ -257,6 +257,45 @@
     "updated_at": "2025-01-15",
     "category": "Ubisoft",
     "drm_type": "Ubisoft",
-    "notes": "Play dari .exe butuh direct12, UbisoftPlay, VC C++2019"
+    "notes": "Play dari .exe butuh directx12, UbisoftPlay, VC C++2019"
+  },
+  {
+    "appid": 447040,
+    "name": "Watch_Dogs 2",
+    "description": "Watch_Dogs 2",
+    "download_url": "https://pixeldrain.com/u/hCQS8vZC",
+    "file_id": "hCQS8vZC",
+    "size": 32428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "Ubisoft",
+    "drm_type": "Ubisoft",
+    "notes": "Play dari .exe butuh directX, UbisoftPlay, .NET 4.0"
+  },
+  {
+    "appid": 2239550,
+    "name": "Watch Dogs: Legion",
+    "description": "Watch Dogs: Legion",
+    "download_url": "https://pixeldrain.com/u/TFfUjqg8",
+    "file_id": "TFfUjqg8",
+    "size": 32428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "Ubisoft",
+    "drm_type": "Ubisoft",
+    "notes": "Play dari .exe butuh directX, UbisoftPlay, .NET 4.0"
+  },
+  {
+    "appid": 1659040,
+    "name": "HITMAN World of Assassination",
+    "description": "HITMAN World of Assassination",
+    "download_url": "https://pixeldrain.com/u/T6B9qxnR",
+    "file_id": "T6B9qxnR",
+    "size": 32428800,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "IO Interactive A/S",
+    "drm_type": "IO Interactive A/S",
+    "notes": "Play dari .exe butuh directX12, dan VCRedist"
   }
 ]
