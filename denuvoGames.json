@@ -104,6 +104,26 @@
       "publisher": "MAC",
       "release_year": 2016,
       "notes": "Manual activation required"
+    },
+    {
+      "appid": 3551340,
+      "name": "Football Manager 26",
+      "description": "Football Manager 26",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "MAC",
+      "release_year": 2025,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 2958130,
+      "name": "Jurassic World Evolution 3",
+      "description": "Jurassic World Evolution 3",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "MAC",
+      "release_year": 2025,
+      "notes": "Manual activation required"
     }
   ]
 }
