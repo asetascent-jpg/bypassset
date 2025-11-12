@@ -5,6 +5,16 @@
     "country_code": "62"
   },
   "games": [
+     {
+      "appid": 2050650,
+      "name": "Resident Evil 4",
+      "description": "Resident Evil 4",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "SHIFT UP Corporation",
+      "release_year": 2023,
+      "notes": "Manual activation required"
+    },
     {
       "appid": 3489700,
       "name": "Stellar Blade",
