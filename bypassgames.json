@@ -12,6 +12,19 @@
     "drm_type": "Ubisoft Connect",
     "notes": "Play game dari file .exe di folder game"
   },
+{
+    "appid": 3240220,
+    "name": "Grand Theft Auto V Enhanced",
+    "description": "Grand Theft Auto V Enhanced",
+    "download_url": "https://pixeldrain.com/u/Z5Mrrom8",
+    "file_id": "8SaFspzc",
+    "size": 12582912,
+    "version": "1.0",
+    "updated_at": "2025-01-15",
+    "category": "rockstar",
+    "drm_type": "rockstar",
+    "notes": "Play game dari file PLAYGATV.exe di folder game"
+  },
   {
     "appid": 298110,
     "name": "Far Cry 4",
