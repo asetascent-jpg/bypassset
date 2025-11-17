@@ -134,6 +134,26 @@
       "publisher": "MAC",
       "release_year": 2025,
       "notes": "Manual activation required"
+    },
+    {
+      "appid": 3472040,
+      "name": "NBA 2K26",
+      "description": "NBA 2K26",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "MAC",
+      "release_year": 2025,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 2878980,
+      "name": "NBA 2K25",
+      "description": "NBA 2K25",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "MAC",
+      "release_year": 2025,
+      "notes": "Manual activation required"
     }
   ]
 }
