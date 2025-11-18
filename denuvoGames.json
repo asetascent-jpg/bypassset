@@ -5,7 +5,27 @@
     "country_code": "62"
   },
   "games": [
-     {
+    {
+      "appid": 2679460,
+      "name": "Metaphor: ReFantazio",
+      "description": "Metaphor: ReFantazio",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "SHIFT UP Corporation",
+      "release_year": 2023,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 2161700,
+      "name": "Persona 3 Reload",
+      "description": "Persona 3 Reload",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "SHIFT UP Corporation",
+      "release_year": 2023,
+      "notes": "Manual activation required"
+    },
+    {
       "appid": 2050650,
       "name": "Resident Evil 4",
       "description": "Resident Evil 4",
