@@ -166,13 +166,13 @@
       "notes": "Manual activation required"
     },
         {
-      "appid": 493340,
-      "name": "Planet Coaster",
-      "description": "Planet Coaster",
+      "appid": 703080,
+      "name": "Planet Zoo",
+      "description": "Planet Zoo",
       "category": "denuvo",
       "drm_type": "Denuvo",
       "publisher": "MAC",
-      "release_year": 2016,
+      "release_year": 2025,
       "notes": "Manual activation required"
     }
   ]
