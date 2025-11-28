@@ -15,6 +15,16 @@
       "release_year": 2023,
       "notes": "Manual activation required"
     },
+      {
+      "appid": 1971870,
+      "name": "Mortal Kombat 1",
+      "description": "Mortal Kombat 1",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "Warner Bros. Games",
+      "release_year": 2023,
+      "notes": "Manual activation required"
+    },
     {
       "appid": 2161700,
       "name": "Persona 3 Reload",
