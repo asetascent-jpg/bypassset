@@ -25,6 +25,46 @@
       "release_year": 2023,
       "notes": "Manual activation required"
     },
+      {
+      "appid": 2252570,
+      "name": "Football Manager 2024",
+      "description": "Football Manager 2024",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "-",
+      "release_year": 2023,
+      "notes": "Manual activation required"
+    },
+      {
+      "appid": 2246340,
+      "name": "Monster Hunter Wilds",
+      "description": "Monster Hunter Wilds",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "-",
+      "release_year": 2025,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 629820,
+      "name": "Maneater",
+      "description": "Maneater",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "-",
+      "release_year": 2021,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 668580,
+      "name": "Atomic Heart",
+      "description": "Atomic Heart",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "-",
+      "release_year": 2023,
+      "notes": "Manual activation required"
+    },
     {
       "appid": 2161700,
       "name": "Persona 3 Reload",
