@@ -5,6 +5,36 @@
     "country_code": "62"
   },
   "games": [
+     {
+      "appid": 2688950,
+      "name": "Planet Coaster 2",
+      "description": "Planet Coaster 2",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "SHIFT UP Corporation",
+      "release_year": 2025,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 1364780,
+      "name": "Street Fighter™ 6",
+      "description": "Street Fighter™ 6",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "SHIFT UP Corporation",
+      "release_year": 2025,
+      "notes": "Manual activation required"
+    },
+    {
+      "appid": 1984270,
+      "name": "Digimon Story Time Stranger",
+      "description": "Digimon Story Time Stranger",
+      "category": "denuvo",
+      "drm_type": "Denuvo",
+      "publisher": "SHIFT UP Corporation",
+      "release_year": 2025,
+      "notes": "Manual activation required"
+    },
     {
       "appid": 2679460,
       "name": "Metaphor: ReFantazio",
